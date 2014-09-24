@@ -17,7 +17,7 @@ get '/' do
       margin-top: 50px;
     }
 
-    img-holder {
+    .img-holder {
       width: 40%;
       text-align: center;
       margin-left: auto;
